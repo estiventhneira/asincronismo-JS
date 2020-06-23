@@ -45,7 +45,7 @@ fetchData(API, (error1, respuesta1) => {
       if (error3) {
         return console.error(error);
       } else {
-        console.log(respuesta3.dimension);
+        console.log(respuesta3);
       }
     });
   });
