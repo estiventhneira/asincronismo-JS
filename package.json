@@ -1,0 +1,19 @@
+{
+  "name": "asincronismoconjs",
+  "version": "1.0.0",
+  "description": "Ejemplos de Asincronismo e interaccion con APIs",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "asincronismo",
+    "promise"
+  ],
+  "author": "Estiventh Neira",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
